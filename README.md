@@ -21,3 +21,11 @@ I personalized the application with my own library, reading statuses, ratings, a
 ## Demo video
 
 Video link will be added before submission.
+
+### Demonstrated operations
+
+- **Add Book:** Enter a title and author. Codex identifies the genre, and the application saves the book.
+- **Status: Finished:** Mark a book as read.
+- **Rate Book:** Save a rating from 1 to 5.
+- **Get Recommendations:** Three Codex-powered programs run in parallel, using my library, interests, and discovery. Their outputs are combined through a pipe and refined into up to five recommendations.
+- **Quit:** Exit the menu loop and return to the terminal.
