@@ -20,7 +20,7 @@ I personalized the application with my own library, reading statuses, ratings, a
 
 ## Demo video
 
-Video link will be added before submission.
+[Watch the demo video](demo/PS2_tiny.mp4)
 
 ### Demonstrated operations
 
